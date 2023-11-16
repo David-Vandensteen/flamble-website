@@ -1,0 +1,4 @@
+baseURL = 'http://azertyvortex.free.fr/flamble'
+languageCode = 'en-us'
+title = 'Flamble'
+theme = 'ananke'
