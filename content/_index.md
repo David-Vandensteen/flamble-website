@@ -1,0 +1,1 @@
+[![texte alternatif de l'image](http://img.youtube.com/vi/g7DpYWR8vqA/0.jpg)](https://www.youtube.com/watch?v=g7DpYWR8vqA "Titre de la video")   
